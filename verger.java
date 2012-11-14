@@ -8,4 +8,9 @@ public class verger {
 	public verger(){
 		
 	}
+	
+	public int getNbArbresTotal(){
+		return nbArbres;
+		
+	}
 }
