@@ -4,4 +4,8 @@ public class verger {
 	private String nom;
 	private int superficie;
 	private int nbArbres;
+	
+	public verger(){
+		
+	}
 }
